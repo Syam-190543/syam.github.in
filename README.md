@@ -1,6 +1,6 @@
 ## syam.github.in
 ## 1. SALES REPRESENTATIVES: 
-* Job type:  **Full time**                                       ![devoleper.jpg](https//:syam-190543/syam.github.in)
+* Job type:  **Full time**                 ![devoleper.jpg](https://github.com/Syam-190543/syam.github.in/blob/master/README.md)
 * Location:  **Anywhere**
 * Company size: **10-50**
 * Remote only                                                            
