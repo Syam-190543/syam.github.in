@@ -1,9 +1,9 @@
 ## syam.github.in
 ## 1. SALES REPRESENTATIVES: 
-* Job type:  **Full time**
+* Job type:  **Full time**                                       ![devoleper.jpg](https//:syam-190543/syam.github.in)
 * Location:  **Anywhere**
 * Company size: **10-50**
-* Remote only
+* Remote only                                                            
 ### Qualifications:
 * Candidate must have atleast **5** years of experience
 * Writes and speaks fluent **English**  
