@@ -1,6 +1,6 @@
 ## syam.github.in
 # 1. SALES REPRESENTATIVES:  
-* Company size:**10-50**
+* Company size: #10-50
 * Remote only
 * From anywhere
 * Candidate must have atleast **5** years of experience
