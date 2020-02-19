@@ -30,3 +30,24 @@
 * Database administration skills in***RDMBS or NoSQL technologies*** and a solid grasp of SQL.  
 * A formal programming education ***(e.g. coding bootcamp, CS degree, technical certification, etc.).***
 * Experience working with ***healthcare data, healthcare technology, and clinical staff.***
+
+
+## 3.Senior Python / Django Engineer:
+Job type: **Full time**
+Location: **Anywhere**
+Company size: **1-10**
+### Qualifications:
+* **3+ years of professional Python experience** with either **Django or Flask**
+* Expert in ***Docker and managing Docker infrastructures***
+* Expert in ***Git, Continuous Integration & Delivery***
+* ***Speak linux natively***
+* ***Strong written and oral communication skills***
+* Comfort ***working remotely -- independent & self-motivated***
+
+#### Benefits:
+* ***Competitive salary + Equity***
+*  ***Unlimited vacation ***
+*  ***Health/Dental/Vision ***
+*  ***Small team of exceptional engineers + project managers ***
+*  ***Opportunity to join a growing business and leave your fingerprint on it's success ***
+*  ***Collaborative, transparent and fun loving office culture ***
