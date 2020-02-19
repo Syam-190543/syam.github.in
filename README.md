@@ -45,7 +45,7 @@ Company size: **1-10**
 * Comfort ***working remotely -- independent & self-motivated***
 
 #### Benefits:
-* ***Competitive salary + Equity***
+*  ***Competitive salary + Equity***
 *  ***Unlimited vacation ***
 *  ***Health/Dental/Vision ***
 *  ***Small team of exceptional engineers + project managers ***
