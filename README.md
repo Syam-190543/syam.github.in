@@ -46,8 +46,8 @@ Company size: **1-10**
 
 #### Benefits:
 *  ***Competitive salary + Equity***
-*  ***Unlimited vacation ***
-*  ***Health/Dental/Vision ***
-*  ***Small team of exceptional engineers + project managers ***
-*  ***Opportunity to join a growing business and leave your fingerprint on it's success ***
-*  ***Collaborative, transparent and fun loving office culture ***
+*  ***Unlimited vacation***
+*  ***Health/Dental/Vision***
+*  ***Small team of exceptional engineers + project managers***
+*  ***Opportunity to join a growing business and leave your fingerprint on it's success***
+*  ***Collaborative, transparent and fun loving office culture***
