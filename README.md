@@ -13,7 +13,7 @@
 
 
 
-## 2.REMOTE FULLSTACK DEV:
+## 2.REMOTE FULLSTACK DEV:    ![](imgpsh_fullsize.png)
 * Job type: **Full time**
 * Location: **Anywhere**
 * Company size: **10-21**
