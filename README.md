@@ -32,7 +32,7 @@
 * Experience working with ***healthcare data, healthcare technology, and clinical staff.***
 
 
-## 3.Senior Python / Django Engineer:
+## 3.Senior Python / Django Engineer:        ![](remote-jobs-hiring-now.jpg.webp)
 Job type: **Full time**
 Location: **Anywhere**
 Company size: **1-10**
@@ -55,6 +55,7 @@ Company size: **1-10**
 
 
 
-######  Art By 
-   **~~Syam Kumar~~**
-###### **CSE-1**
+# Art By 
+   **Syam Kumar**
+##    CSE-1
+##    19131A0543
